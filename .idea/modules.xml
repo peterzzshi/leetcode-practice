@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/check-if-word-is-valid-after-substitutions/check-if-word-is-valid-after-substitutions.iml" filepath="$PROJECT_DIR$/check-if-word-is-valid-after-substitutions/check-if-word-is-valid-after-substitutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contains-duplicate/contains-duplicate.iml" filepath="$PROJECT_DIR$/contains-duplicate/contains-duplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contains-duplicate-ii/contains-duplicate-ii.iml" filepath="$PROJECT_DIR$/contains-duplicate-ii/contains-duplicate-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-resultant-array-after-removing-anagrams/find-resultant-array-after-removing-anagrams.iml" filepath="$PROJECT_DIR$/find-resultant-array-after-removing-anagrams/find-resultant-array-after-removing-anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generate-parentheses/generate-parentheses.iml" filepath="$PROJECT_DIR$/generate-parentheses/generate-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/group-anagrams/group-anagrams.iml" filepath="$PROJECT_DIR$/group-anagrams/group-anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice.iml" filepath="$PROJECT_DIR$/leetcode-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest-valid-parentheses/longest-valid-parentheses.iml" filepath="$PROJECT_DIR$/longest-valid-parentheses/longest-valid-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.iml" filepath="$PROJECT_DIR$/make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/min-stack/min-stack.iml" filepath="$PROJECT_DIR$/min-stack/min-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-of-parentheses/score-of-parentheses.iml" filepath="$PROJECT_DIR$/score-of-parentheses/score-of-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top-k-frequent-elements/top-k-frequent-elements.iml" filepath="$PROJECT_DIR$/top-k-frequent-elements/top-k-frequent-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two-sum/two-sum.iml" filepath="$PROJECT_DIR$/two-sum/two-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-anagram/valid-anagram.iml" filepath="$PROJECT_DIR$/valid-anagram/valid-anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" filepath="$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" />
+    </modules>
+  </component>
+</project>
