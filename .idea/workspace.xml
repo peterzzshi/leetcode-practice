@@ -4,26 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba46f3bb-f77e-42bf-ba0d-9928e706e7b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check-if-word-is-valid-after-substitutions/check-if-word-is-valid-after-substitutions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contains-duplicate-ii/contains-duplicate-ii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contains-duplicate/contains-duplicate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find-resultant-array-after-removing-anagrams/find-resultant-array-after-removing-anagrams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate-parentheses/generate-parentheses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group-anagrams/group-anagrams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest-valid-parentheses/longest-valid-parentheses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min-stack/min-stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/score-of-parentheses/score-of-parentheses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top-k-frequent-elements/top-k-frequent-elements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-sum/two-sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid-anagram/valid-anagram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" afterDir="false" />
+    <list default="true" id="ba46f3bb-f77e-42bf-ba0d-9928e706e7b9" name="Changes" comment="WIP">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary-search/binary-search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/climbing-stairs/climbing-stairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/container-with-most-water/container-with-most-water.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/container-with-most-water/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluate-reverse-polish-notation/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest-palindrome/longest-palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majority-element/majority-element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min-stack/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ransom-note/ransom-note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse-linked-list/reverse-linked-list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse-linked-list/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse-linked-list/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-palindrome/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-palindrome/valid-palindrome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/min-stack/src/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +36,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -49,23 +58,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/peter/OneDrive/Desktop/all_code_examples",
-    "onboarding.tips.debug.path": "C:/Users/peter/OneDrive/Desktop/leetcode-practice/contains-duplicate/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/peter/OneDrive/Desktop/leetcode-practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/peter/OneDrive/Desktop/leetcode-practice/reverse-linked-list/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.saveactions&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\two-sum\src" />
@@ -80,6 +97,13 @@
       <recent name="" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,8 +112,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714055144186</updated>
+      <workItem from="1724509165511" duration="886000" />
+      <workItem from="1724510067914" duration="89000" />
+      <workItem from="1724768134088" duration="4596000" />
     </task>
+    <task id="LOCAL-00001" summary="WIP">
+      <option name="closed" value="true" />
+      <created>1722673354266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722673354266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -101,6 +140,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -114,6 +157,16 @@
           <url>file://$PROJECT_DIR$/contains-duplicate/src/Solution.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/two-sum-ii-input-array-is-sorted/src/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/container-with-most-water/src/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

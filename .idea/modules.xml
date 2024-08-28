@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/check-if-word-is-valid-after-substitutions/check-if-word-is-valid-after-substitutions.iml" filepath="$PROJECT_DIR$/check-if-word-is-valid-after-substitutions/check-if-word-is-valid-after-substitutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/climbing-stairs/climbing-stairs.iml" filepath="$PROJECT_DIR$/climbing-stairs/climbing-stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container-with-most-water/container-with-most-water.iml" filepath="$PROJECT_DIR$/container-with-most-water/container-with-most-water.iml" />
       <module fileurl="file://$PROJECT_DIR$/contains-duplicate/contains-duplicate.iml" filepath="$PROJECT_DIR$/contains-duplicate/contains-duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/contains-duplicate-ii/contains-duplicate-ii.iml" filepath="$PROJECT_DIR$/contains-duplicate-ii/contains-duplicate-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.iml" filepath="$PROJECT_DIR$/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.iml" />
       <module fileurl="file://$PROJECT_DIR$/find-resultant-array-after-removing-anagrams/find-resultant-array-after-removing-anagrams.iml" filepath="$PROJECT_DIR$/find-resultant-array-after-removing-anagrams/find-resultant-array-after-removing-anagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/generate-parentheses/generate-parentheses.iml" filepath="$PROJECT_DIR$/generate-parentheses/generate-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/group-anagrams/group-anagrams.iml" filepath="$PROJECT_DIR$/group-anagrams/group-anagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-practice.iml" filepath="$PROJECT_DIR$/leetcode-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest-palindrome/longest-palindrome.iml" filepath="$PROJECT_DIR$/longest-palindrome/longest-palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest-valid-parentheses/longest-valid-parentheses.iml" filepath="$PROJECT_DIR$/longest-valid-parentheses/longest-valid-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/majority-element/majority-element.iml" filepath="$PROJECT_DIR$/majority-element/majority-element.iml" />
       <module fileurl="file://$PROJECT_DIR$/make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.iml" filepath="$PROJECT_DIR$/make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.iml" />
       <module fileurl="file://$PROJECT_DIR$/min-stack/min-stack.iml" filepath="$PROJECT_DIR$/min-stack/min-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ransom-note/ransom-note.iml" filepath="$PROJECT_DIR$/ransom-note/ransom-note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-linked-list/reverse-linked-list.iml" filepath="$PROJECT_DIR$/reverse-linked-list/reverse-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/score-of-parentheses/score-of-parentheses.iml" filepath="$PROJECT_DIR$/score-of-parentheses/score-of-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/top-k-frequent-elements/top-k-frequent-elements.iml" filepath="$PROJECT_DIR$/top-k-frequent-elements/top-k-frequent-elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/two-sum/two-sum.iml" filepath="$PROJECT_DIR$/two-sum/two-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.iml" filepath="$PROJECT_DIR$/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid-anagram/valid-anagram.iml" filepath="$PROJECT_DIR$/valid-anagram/valid-anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-palindrome/valid-palindrome.iml" filepath="$PROJECT_DIR$/valid-palindrome/valid-palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" filepath="$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" />
     </modules>
   </component>
