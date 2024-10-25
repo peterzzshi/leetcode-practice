@@ -1,4 +1,3 @@
-import java.util.EmptyStackException;
 import java.util.Stack;
 
 class MinStack {
@@ -13,31 +12,19 @@ class MinStack {
 
     public void push(final int val) {
         this.stack.push(val);
-        if (this.minStack.isEmpty() || this.minStack.peek() > val) {
-            this.minStack.push(val);
-        }
+        this.minStack.push(this.minStack.isEmpty() || this.minStack.peek() > val ? val : this.minStack.peek());
     }
 
     public void pop() {
-        if (!this.stack.isEmpty()) {
-            if (this.stack.peek().equals(this.minStack.peek())) {
-                this.minStack.pop();
-            }
-            this.stack.pop();
-        }
+        this.stack.pop();
+        this.minStack.pop();
     }
 
     public int top() {
-        if (this.stack.isEmpty()) {
-            throw new EmptyStackException();
-        }
         return this.stack.peek();
     }
 
     public int getMin() {
-        if (this.minStack.isEmpty()) {
-            throw new EmptyStackException();
-        }
         return this.minStack.peek();
     }
 }

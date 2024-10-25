@@ -5,27 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba46f3bb-f77e-42bf-ba0d-9928e706e7b9" name="Changes" comment="WIP">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary-search/binary-search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/climbing-stairs/climbing-stairs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/container-with-most-water/container-with-most-water.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/container-with-most-water/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluate-reverse-polish-notation/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest-palindrome/longest-palindrome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majority-element/majority-element.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min-stack/src/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ransom-note/ransom-note.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-linked-list/reverse-linked-list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-linked-list/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-linked-list/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid-palindrome/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid-palindrome/valid-palindrome.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3sum-closest/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add-two-numbers/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balanced-binary-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary-tree-level-order-traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary-tree-right-side-view/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car-fleet/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/construct-binary-tree-from-preorder-and-inorder-traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy-list-with-random-pointer/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count-good-nodes-in-binary-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-temperatures/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diameter-of-binary-tree/diameter-of-binary-tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diameter-of-binary-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find-minimum-in-rotated-sorted-array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find-the-duplicate-number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invert-binary-tree/invert-binary-tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invert-binary-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k-closest-points-to-origin/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koko-eating-bananas/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kth-largest-element-in-a-stream/src/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kth-largest-element-in-an-array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kth-smallest-element-in-a-bst/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/last-stone-weight/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letter-combinations-of-a-phone-number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-cycle/linked-list-cycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-cycle/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest-consecutive-sequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest-substring-without-repeating-characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lowest-common-ancestor-of-a-binary-search-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum-depth-of-binary-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum-subarray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge-two-sorted-lists/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle-of-the-linked-list/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove-nth-node-from-end-of-list/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reorder-list/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/same-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-a-2d-matrix/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-in-rotated-sorted-array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subsets/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subtree-of-another-tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-binary-search-tree/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-stack/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/min-stack/src/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/min-stack/src/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse-linked-list/reverse-linked-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse-linked-list/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse-linked-list/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/reverse-linked-list/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +75,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;peterzzshi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/peterzzshi/leetcode-practice.git&quot;,
+    &quot;accountId&quot;: &quot;e629986c-73bc-49f6-baa7-dd99e85528a7&quot;
+  }
+}</component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
@@ -68,7 +109,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/peter/OneDrive/Desktop/leetcode-practice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/peter/OneDrive/Desktop/leetcode-practice/reverse-linked-list/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -85,12 +126,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\reverse-linked-list\src" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\two-sum\src" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\generate-parentheses" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\contains-duplicate-ii\src" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\common\src" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\generate-parentheses\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -100,7 +143,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -114,7 +157,28 @@
       <updated>1714055144186</updated>
       <workItem from="1724509165511" duration="886000" />
       <workItem from="1724510067914" duration="89000" />
-      <workItem from="1724768134088" duration="4596000" />
+      <workItem from="1724768134088" duration="4850000" />
+      <workItem from="1725116768723" duration="10576000" />
+      <workItem from="1725547285105" duration="4130000" />
+      <workItem from="1725970060432" duration="2696000" />
+      <workItem from="1725974939137" duration="141000" />
+      <workItem from="1726150853577" duration="903000" />
+      <workItem from="1726231884616" duration="2756000" />
+      <workItem from="1726321756711" duration="19474000" />
+      <workItem from="1726580478198" duration="7710000" />
+      <workItem from="1726842293984" duration="3069000" />
+      <workItem from="1726930134605" duration="12332000" />
+      <workItem from="1727958874554" duration="265000" />
+      <workItem from="1727959285288" duration="2722000" />
+      <workItem from="1728479867386" duration="847000" />
+      <workItem from="1728569870302" duration="1044000" />
+      <workItem from="1728729595913" duration="3000000" />
+      <workItem from="1728826692373" duration="4668000" />
+      <workItem from="1728989825901" duration="3066000" />
+      <workItem from="1729081574870" duration="1823000" />
+      <workItem from="1729408063138" duration="10767000" />
+      <workItem from="1729778967169" duration="966000" />
+      <workItem from="1729839869370" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="WIP">
       <option name="closed" value="true" />
@@ -124,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722673354266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="WIP">
+      <option name="closed" value="true" />
+      <created>1724858270591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724858270591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +239,15 @@
           <url>file://$PROJECT_DIR$/container-with-most-water/src/Solution.java</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/common/src/TreeNode.java</url>
+          <line>5</line>
+          <properties class="TreeNode" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
