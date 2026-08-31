@@ -4,6 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/pom.xml" />
         <option value="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/pom.xml" />
         <option value="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/pom.xml" />
