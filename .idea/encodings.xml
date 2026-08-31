@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/interview-prep/01-recursion-backtracking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/01-recursion-backtracking/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
