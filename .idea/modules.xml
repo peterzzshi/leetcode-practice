@@ -35,7 +35,6 @@
       <module fileurl="file://$PROJECT_DIR$/kth-largest-element-in-an-array/kth-largest-element-in-an-array.iml" filepath="$PROJECT_DIR$/kth-largest-element-in-an-array/kth-largest-element-in-an-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.iml" filepath="$PROJECT_DIR$/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/last-stone-weight/last-stone-weight.iml" filepath="$PROJECT_DIR$/last-stone-weight/last-stone-weight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetcode-practice.iml" filepath="$PROJECT_DIR$/leetcode-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.iml" filepath="$PROJECT_DIR$/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list-cycle/linked-list-cycle.iml" filepath="$PROJECT_DIR$/linked-list-cycle/linked-list-cycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest-consecutive-sequence/longest-consecutive-sequence.iml" filepath="$PROJECT_DIR$/longest-consecutive-sequence/longest-consecutive-sequence.iml" />
@@ -67,6 +66,11 @@
       <module fileurl="file://$PROJECT_DIR$/valid-palindrome/valid-palindrome.iml" filepath="$PROJECT_DIR$/valid-palindrome/valid-palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" filepath="$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/validate-binary-search-tree/validate-binary-search-tree.iml" filepath="$PROJECT_DIR$/validate-binary-search-tree/validate-binary-search-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/01-recursion-backtracking/01-recursion-backtracking.iml" filepath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/01-recursion-backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/02-oop-wallet-ledger.iml" filepath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/02-oop-wallet-ledger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/03-etl-transaction-pipeline.iml" filepath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/03-etl-transaction-pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/04-fix-the-broken-test.iml" filepath="$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/04-fix-the-broken-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-practice.iml" filepath="$PROJECT_DIR$/leetcode-practice.iml" />
     </modules>
   </component>
 </project>
