@@ -18,8 +18,10 @@ everything; they want to see pruning during the recursion.
 
 ## Task B — ArrayPermutations
 
-Implement `void printPermutations(int[] nums)`:
+Implement `List<List<Integer>> printPermutations(int[] nums)`:
 - Prints every permutation of `nums` (distinct integers) to stdout, one per line, space-separated.
+- Also returns the permutations as a `List<List<Integer>>` (this is what the tests assert against —
+  printing alone isn't practically testable/verifiable in isolation).
 - Must be done via recursion/backtracking (no library shortcuts).
 - Order of permutations doesn't matter, but each must appear exactly once.
 

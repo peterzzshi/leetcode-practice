@@ -2,6 +2,14 @@ package prep.wallet;
 
 import java.util.List;
 
+enum ActionType {
+    OPEN_ACCOUNT,
+    DEPOSIT,
+    WITHDRAW,
+    TRANSFER_IN,
+    TRANSFER_OUT
+}
+
 public interface Ledger {
 
     void openAccount(String accountId, long initialBalanceCents);
@@ -19,6 +27,6 @@ public interface Ledger {
     record TransferResult(String idempotencyKey, boolean appliedNow) {
     }
 
-    record LedgerEntry(String type, String counterpartyAccountId, long amountCents, long resultingBalanceCents) {
+    record LedgerEntry(ActionType type, String counterpartyAccountId, long amountCents, long resultingBalanceCents) {
     }
 }

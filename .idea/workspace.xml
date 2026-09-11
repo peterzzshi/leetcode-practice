@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba46f3bb-f77e-42bf-ba0d-9928e706e7b9" name="Changes" comment="Reorganise">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/coinchange/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/courseschedule/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/decodeways/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/houserobber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/houserobber2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/jumpgame/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/longestcommonsubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/longestincreasingsubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/mergeintervals/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/uniquepaths/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/wordbreak/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/01-recursion-backtracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/recursion-backtracking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/REQUIREMENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/REQUIREMENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/src/main/java/prep/recursion/ArrayPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/src/main/java/prep/recursion/ArrayPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/src/test/java/prep/recursion/ArrayPermutationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/src/test/java/prep/recursion/ArrayPermutationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/02-oop-wallet-ledger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/oop-wallet-ledger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/src/main/java/prep/wallet/InMemoryLedger.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/src/main/java/prep/wallet/InMemoryLedger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/src/main/java/prep/wallet/Ledger.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/src/main/java/prep/wallet/Ledger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/03-etl-transaction-pipeline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/etl-transaction-pipeline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/src/main/java/prep/etl/TransactionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/src/main/java/prep/etl/TransactionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/04-fix-the-broken-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/fix-the-broken-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/PREP_GUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/PREP_GUIDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skills-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="26" />
+    <option name="cachedIndexableFilesCount" value="123" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -48,61 +76,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4926563149343801" />
-      <entry key="MS500" value="3.9709294197506835" />
-      <entry key="S2" value="8.002133848105572" />
-      <entry key="S5" value="9.63291121228163" />
-      <entry key="S10" value="10.284428541754519" />
-      <entry key="S30" value="10.992592795986958" />
-      <entry key="S60" value="18.397784715254975" />
-      <entry key="M2" value="55.871416077444984" />
-      <entry key="M5" value="176.50031888415265" />
-      <entry key="M10" value="324.9443061164699" />
-      <entry key="M15" value="418.42392758738947" />
-      <entry key="M30" value="555.6952234558979" />
-      <entry key="H1" value="650.2448740909059" />
-      <entry key="H2" value="708.0321001687497" />
-      <entry key="H4" value="740.7893966468791" />
-      <entry key="D1" value="770.6864426718677" />
-      <entry key="W1" value="776.0906432306191" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000003816471639" />
+      <entry key="S2" value="1.0602558328553087" />
+      <entry key="S5" value="1.4791668073169753" />
+      <entry key="S10" value="1.9741675270673897" />
+      <entry key="S30" value="2.647202669686423" />
+      <entry key="S60" value="3.673439015746415" />
+      <entry key="M2" value="6.035557013826548" />
+      <entry key="M5" value="10.247086771242415" />
+      <entry key="M10" value="14.38688469098519" />
+      <entry key="M15" value="17.75146977285983" />
+      <entry key="M30" value="25.649773940453567" />
+      <entry key="H1" value="38.51519385725097" />
+      <entry key="H2" value="60.04781023750855" />
+      <entry key="H4" value="85.64706207619732" />
+      <entry key="D1" value="177.84850918530566" />
+      <entry key="W1" value="850.1162653950141" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S5" value="2.79837158819706E-206" />
+      <entry key="S10" value="1.6728334012079835E-103" />
+      <entry key="S30" value="5.509991097081226E-35" />
+      <entry key="S60" value="7.422931427058473E-18" />
+      <entry key="M2" value="2.724505721605015E-9" />
+      <entry key="M5" value="3.750723880643011E-4" />
+      <entry key="M10" value="0.01937114796239012" />
+      <entry key="M15" value="0.07264666755917543" />
+      <entry key="M30" value="0.3398629742514291" />
+      <entry key="H1" value="1.3879029164841634" />
+      <entry key="H2" value="3.8034705489537015" />
+      <entry key="H4" value="6.858642876191295" />
+      <entry key="D1" value="31.354767324877542" />
+      <entry key="W1" value="118.25034478487477" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4273218014456273" />
-      <entry key="MS500" value="3.933157453504399" />
-      <entry key="S2" value="7.982672567659137" />
-      <entry key="S5" value="9.623484476213973" />
-      <entry key="S10" value="10.27938535282035" />
-      <entry key="S30" value="10.990803035478589" />
-      <entry key="S60" value="18.396454768816145" />
-      <entry key="M2" value="55.869675535929154" />
-      <entry key="M5" value="176.4979445365789" />
-      <entry key="M10" value="324.94174139962445" />
-      <entry key="M15" value="418.421569441667" />
-      <entry key="M30" value="555.6935395992446" />
-      <entry key="H1" value="650.2438474143937" />
-      <entry key="H2" value="708.0315267168078" />
-      <entry key="H4" value="740.7890920025081" />
-      <entry key="D1" value="770.686389061191" />
-      <entry key="W1" value="776.0906354969583" />
+      <entry key="MS100" value="0.01617601443502152" />
+      <entry key="MS500" value="0.43830294163573197" />
+      <entry key="S2" value="0.8396946247098326" />
+      <entry key="S5" value="1.2701312049083957" />
+      <entry key="S10" value="1.7942510941793286" />
+      <entry key="S30" value="2.555014096402492" />
+      <entry key="S60" value="3.6179508917461467" />
+      <entry key="M2" value="6.000990988159651" />
+      <entry key="M5" value="10.229242027875179" />
+      <entry key="M10" value="14.395056607580882" />
+      <entry key="M15" value="17.815549039046324" />
+      <entry key="M30" value="25.98398200496564" />
+      <entry key="H1" value="39.8987454076552" />
+      <entry key="H2" value="63.84755701276724" />
+      <entry key="H4" value="92.50285119420076" />
+      <entry key="D1" value="209.2020122686101" />
+      <entry key="W1" value="968.3660599990551" />
     </decayedShown>
   </component>
   <component name="OptimizeOnSaveOptions">
@@ -116,59 +144,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/thaochinguyen/Desktop/leetcode-practice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/peter/OneDrive/Desktop/leetcode-practice/reverse-linked-list/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "JUnit.ArrayPermutationsTest.twoElements.executor": "Run",
+    "JUnit.InMemoryLedgerTest.cannotOpenDuplicateAccount.executor": "Run",
+    "JUnit.InMemoryLedgerTest.depositIncreasesBalance.executor": "Run",
+    "JUnit.InMemoryLedgerTest.executor": "Run",
+    "JUnit.TransactionProcessorTest.dedupeKeepsFirstOccurrenceOfEachIdempotencyKey.executor": "Run",
+    "JUnit.TransactionProcessorTest.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "code.cleanup.on.save": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "junie.plugin.stays.banner.dismissed": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/thaochinguyen/Desktop/leetcode-practice/src/main/java/com/leetcode/houserobber2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/peter/OneDrive/Desktop/leetcode-practice/reverse-linked-list/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/leetcode/houserobber2" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/leetcode/" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\reverse-linked-list\src" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\two-sum\src" />
-      <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\generate-parentheses" />
-      <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\contains-duplicate-ii\src" />
-      <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\common\src" />
       <recent name="C:\Users\peter\OneDrive\Desktop\leetcode-practice\generate-parentheses\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
+      <recent name="com.leetcode.longestcommonsubsequence" />
+      <recent name="com.leetcode.decodeways" />
+      <recent name="com.leetcode.jumpgame" />
+      <recent name="com.leetcode.wordbreak" />
+      <recent name="com.leetcode.longestincreasingsubsequence" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TransactionProcessorTest">
+    <configuration name="InMemoryLedgerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop-wallet-ledger" />
+      <shortenClasspath name="NONE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prep.wallet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="prep.wallet" />
+      <option name="MAIN_CLASS_NAME" value="prep.wallet.InMemoryLedgerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="etl-transaction-pipeline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prep.etl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="prep.etl" />
+      <option name="MAIN_CLASS_NAME" value="prep.etl.TransactionProcessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.InMemoryLedgerTest" />
+      <item itemvalue="JUnit.TransactionProcessorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransactionProcessorTest" />
+        <item itemvalue="JUnit.InMemoryLedgerTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
       </set>
     </attachedChunks>
   </component>

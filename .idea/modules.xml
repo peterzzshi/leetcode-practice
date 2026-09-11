@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/leetcode-practice.iml" filepath="$PROJECT_DIR$/leetcode-practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interview-prep/01-recursion-backtracking/01-recursion-backtracking.iml" filepath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/01-recursion-backtracking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/02-oop-wallet-ledger.iml" filepath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/02-oop-wallet-ledger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/03-etl-transaction-pipeline.iml" filepath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/03-etl-transaction-pipeline.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/04-fix-the-broken-test.iml" filepath="$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/04-fix-the-broken-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/01-recursion-backtracking/recursion-backtracking.iml" filepath="$PROJECT_DIR$/interview-prep/01-recursion-backtracking/recursion-backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/oop-wallet-ledger.iml" filepath="$PROJECT_DIR$/interview-prep/02-oop-wallet-ledger/oop-wallet-ledger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/etl-transaction-pipeline.iml" filepath="$PROJECT_DIR$/interview-prep/03-etl-transaction-pipeline/etl-transaction-pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/fix-the-broken-test.iml" filepath="$PROJECT_DIR$/interview-prep/04-fix-the-broken-test/fix-the-broken-test.iml" />
     </modules>
   </component>
 </project>
